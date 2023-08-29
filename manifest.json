@@ -27,16 +27,5 @@
     "scripts": [
       "background.js"
     ]
-  },
-  "commands": {
-    "_execute_browser_action": {
-      "suggested_key": {
-        "default": "Alt+Shift+W"
-      }
-    }
-  },
-  "options_ui": {
-    "page": "options/options.html",
-    "browser_style": true
   }
 }
